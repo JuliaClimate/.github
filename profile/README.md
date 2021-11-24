@@ -13,6 +13,10 @@
 
 Here are things you'll find in this organization.
 
+| | | | | | |
+|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50"> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143279553-41c0a2b7-081f-42f9-b285-c4166b81770e.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143278660-3dc6dbdf-e037-4de8-a976-d0a5a1b48e14.png" width="100" height="100"> | <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50">
+
 ## Julia Packages
 
 - [MeshArrays.jl](https://github.com/JuliaClimate/MeshArrays.jl) : Gridded earth variables, domain decomposition, and climate model C-grid support [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/MeshArrays.jl)](https://GitHub.com/JuliaClimate/MeshArrays.jl/stargazers/)
@@ -33,8 +37,7 @@ Here are things you'll find in this organization.
 - [www.juliaclimate.org](https://github.com/JuliaClimate/www.juliaclimate.org) : website dedicated to the org
 - [doctheme](https://github.com/JuliaClimate/doctheme) : theme for documenter
 
-| | | | | |
-|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
-| <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50"> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143278660-3dc6dbdf-e037-4de8-a976-d0a5a1b48e14.png" width="100" height="100"> | <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50">
-
+| | | | | | |
+|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50"> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143279553-41c0a2b7-081f-42f9-b285-c4166b81770e.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143278660-3dc6dbdf-e037-4de8-a976-d0a5a1b48e14.png" width="100" height="100"> | <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50">
 
