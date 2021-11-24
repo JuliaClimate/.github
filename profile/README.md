@@ -18,17 +18,17 @@ Here are things you'll find in this organization.
 
 ## Julia Packages
 
-- [MeshArrays.jl](https://github.com/JuliaClimate/MeshArrays.jl) : Gridded earth variables, domain decomposition, and climate model C-grid support
-- [IndividualDisplacements.jl](https://github.com/JuliaClimate/IndividualDisplacements.jl) : Trajectory simulations for point particles in Ocean, Atmosphere, etc flow fields
-- [GlobalOceanNotebooks](https://github.com/JuliaClimate/GlobalOceanNotebooks) : Global Ocean & Climate Notebooks
-- [ClimateBase.jl](https://github.com/JuliaClimate/ClimateBase.jl) : Tools to analyze and manipulate climate (spatiotemporal) data. Also used by ClimateTools and ClimatePlots
-- [ClimateTools.jl](https://github.com/JuliaClimate/ClimateTools.jl) : Climate science package for Julia
-- [ClimatePlots.jl](https://github.com/JuliaClimate/ClimatePlots.jl) : Plotting library for ClimateTools
-- [GeoRegions.jl](https://github.com/JuliaClimate/GeoRegions.jl) : Extraction of gridded geoscience/climate data
-- [STAC.jl](https://github.com/JuliaClimate/STAC.jl) : SpatioTemporal Asset Catalog (STAC) julia client
-- [ClimateSatellite.jl](https://github.com/JuliaClimate/ClimateSatellite.jl) : Julia package that downloads satellite measurements and observational data
-- [INMET.jl](https://github.com/JuliaClimate/INMET.jl) : Julia API to access data from the Instituto Nacional de Metereologia (INMET)
-- [CDSAPI.jl](https://github.com/JuliaClimate/CDSAPI.jl) : Julia API to the Climate Data Store (a.k.a. CDS)
+- [MeshArrays.jl](https://github.com/JuliaClimate/MeshArrays.jl) : Gridded earth variables, domain decomposition, and climate model C-grid support [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/MeshArrays.jl)](https://GitHub.com/JuliaClimate/MeshArrays.jl/stargazers/)
+- [IndividualDisplacements.jl](https://github.com/JuliaClimate/IndividualDisplacements.jl) : Trajectory simulations for point particles in Ocean, Atmosphere, etc flow fields [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/IndividualDisplacements.jl)](https://GitHub.com/JuliaClimate/IndividualDisplacements.jl/stargazers/)
+- [GlobalOceanNotebooks](https://github.com/JuliaClimate/GlobalOceanNotebooks) : Global Ocean & Climate Notebooks [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/GlobalOceanNotebooks)](https://GitHub.com/JuliaClimate/GlobalOceanNotebooks/stargazers/)
+- [ClimateBase.jl](https://github.com/JuliaClimate/ClimateBase.jl) : Tools to analyze and manipulate climate (spatiotemporal) data. Also used by ClimateTools and ClimatePlots [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/ClimateBase.jl)](https://GitHub.com/JuliaClimate/ClimateBase.jl/stargazers/)
+- [ClimateTools.jl](https://github.com/JuliaClimate/ClimateTools.jl) : Climate science package for Julia [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/ClimateTools.jl)](https://GitHub.com/JuliaClimate/ClimateTools.jl/stargazers/)
+- [ClimatePlots.jl](https://github.com/JuliaClimate/ClimatePlots.jl) : Plotting library for ClimateTools [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/ClimatePlots.jl)](https://GitHub.com/JuliaClimate/ClimatePlots.jl/stargazers/)
+- [GeoRegions.jl](https://github.com/JuliaClimate/GeoRegions.jl) : Extraction of gridded geoscience/climate data [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/GeoRegions.jl)](https://GitHub.com/JuliaClimate/GeoRegions.jl/stargazers/)
+- [STAC.jl](https://github.com/JuliaClimate/STAC.jl) : SpatioTemporal Asset Catalog (STAC) julia client [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/STAC.jl)](https://GitHub.com/JuliaClimate/STAC.jl/stargazers/)
+- [ClimateSatellite.jl](https://github.com/JuliaClimate/ClimateSatellite.jl) : Julia package that downloads satellite measurements and observational data [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/ClimateSatellite.jl)](https://GitHub.com/JuliaClimate/ClimateSatellite.jl/stargazers/)
+- [INMET.jl](https://github.com/JuliaClimate/INMET.jl) : Julia API to access data from the Instituto Nacional de Metereologia (INMET) [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/INMET.jl)](https://GitHub.com/JuliaClimate/INMET.jl/stargazers/)
+- [CDSAPI.jl](https://github.com/JuliaClimate/CDSAPI.jl) : Julia API to the Climate Data Store (a.k.a. CDS) [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/CDSAPI.jl)](https://GitHub.com/JuliaClimate/CDSAPI.jl/stargazers/)
 
 ## More
 
