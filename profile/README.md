@@ -11,9 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-
-# JuliaClimate
-
 Here are things you'll find in this organization.
 
 ## Julia Packages
@@ -35,3 +32,8 @@ Here are things you'll find in this organization.
 - [meta](https://github.com/JuliaClimate/meta) : For discussions about JuliaClimate implementations
 - [www.juliaclimate.org](https://github.com/JuliaClimate/www.juliaclimate.org) : website dedicated to the org
 - [doctheme](https://github.com/JuliaClimate/doctheme) : theme for documenter
+
+| | | | |
+|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|
+| <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50"> | <img src="https://user-images.githubusercontent.com/20276764/143275888-ff02f149-225f-45ac-ae5e-1049e15ab215.png" width="100" height="100"> | <img src="https://user-images.githubusercontent.com/20276764/143275851-c165be3b-ca6e-44ab-bcd0-3598c04f2ab6.png" width="100" height="100"> | <img src="https://github.com/JuliaClimate/meta/raw/master/docs/juliaclimatelogo.png" width="50" height="50">
+
