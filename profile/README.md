@@ -19,11 +19,15 @@ Here are things you'll find in this organization.
 
 _(please visit <https://interactive-atlas.ipcc.ch> for more on the science behind these maps)_
 
+## Website
+
+- [www.juliaclimate.org](https://github.com/JuliaClimate/www.juliaclimate.org) : website dedicated to the organization [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/www.juliaclimate.org)](https://GitHub.com/JuliaClimate/www.juliaclimate.org/stargazers/)
+- [Notebooks](https://github.com/JuliaClimate/GlobalOceanNotebooks) : climate related notebooks and cloud computing [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/Notebooks)](https://GitHub.com/JuliaClimate/Notebooks/stargazers/)
+
 ## Julia Packages
 
 - [MeshArrays.jl](https://github.com/JuliaClimate/MeshArrays.jl) : Gridded earth variables, domain decomposition, and climate model C-grid support [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/MeshArrays.jl)](https://GitHub.com/JuliaClimate/MeshArrays.jl/stargazers/)
 - [IndividualDisplacements.jl](https://github.com/JuliaClimate/IndividualDisplacements.jl) : Trajectory simulations for point particles in Ocean, Atmosphere, etc flow fields [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/IndividualDisplacements.jl)](https://GitHub.com/JuliaClimate/IndividualDisplacements.jl/stargazers/)
-- [GlobalOceanNotebooks](https://github.com/JuliaClimate/GlobalOceanNotebooks) : Global Ocean & Climate Notebooks [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/GlobalOceanNotebooks)](https://GitHub.com/JuliaClimate/GlobalOceanNotebooks/stargazers/)
 - [ClimateBase.jl](https://github.com/JuliaClimate/ClimateBase.jl) : Tools to analyze and manipulate climate (spatiotemporal) data. Used in ClimateTools and ClimatePlots [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/ClimateBase.jl)](https://GitHub.com/JuliaClimate/ClimateBase.jl/stargazers/)
 - [ClimateTools.jl](https://github.com/JuliaClimate/ClimateTools.jl) : Climate science package for Julia [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/ClimateTools.jl)](https://GitHub.com/JuliaClimate/ClimateTools.jl/stargazers/)
 - [ClimatePlots.jl](https://github.com/JuliaClimate/ClimatePlots.jl) : Plotting library for ClimateTools [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/ClimatePlots.jl)](https://GitHub.com/JuliaClimate/ClimatePlots.jl/stargazers/)
@@ -36,7 +40,6 @@ _(please visit <https://interactive-atlas.ipcc.ch> for more on the science behin
 ## More
 
 - [meta](https://github.com/JuliaClimate/meta) : For discussions about JuliaClimate implementations
-- [www.juliaclimate.org](https://github.com/JuliaClimate/www.juliaclimate.org) : website dedicated to the org
 - [doctheme](https://github.com/JuliaClimate/doctheme) : theme for documenter
 
 | | History | +1C | +2C | +4C | |
