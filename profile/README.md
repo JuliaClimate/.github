@@ -19,7 +19,7 @@ Here are things you'll find in this organization.
 
 _(please visit <https://interactive-atlas.ipcc.ch> for more on the science behind these maps)_
 
-## Website
+## Web Pages
 
 - [www.juliaclimate.org](https://github.com/JuliaClimate/www.juliaclimate.org) : website dedicated to the organization [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/www.juliaclimate.org)](https://GitHub.com/JuliaClimate/www.juliaclimate.org/stargazers/)
 - [Notebooks](https://github.com/JuliaClimate/GlobalOceanNotebooks) : climate related notebooks and cloud computing [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/Notebooks)](https://GitHub.com/JuliaClimate/Notebooks/stargazers/)
