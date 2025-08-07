@@ -21,7 +21,7 @@ _(please visit <https://interactive-atlas.ipcc.ch> for more on the science behin
 
 ## Web Pages
 
-- [www.juliaclimate.org](https://juliaclimate.org) : website dedicated to the organization [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/www.juliaclimate.org)](https://GitHub.com/JuliaClimate/www.juliaclimate.org/stargazers/)
+- [juliaclimate.github.io](https://juliaclimate.github.io) : website dedicated to the organization [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/www.juliaclimate.org)](https://GitHub.com/JuliaClimate/www.juliaclimate.org/stargazers/)
 - [Notebooks](https://juliaclimate.github.io/Notebooks/) : climate related notebooks and cloud computing [![GitHub stars](https://badgen.net/github/stars/JuliaClimate/Notebooks)](https://GitHub.com/JuliaClimate/Notebooks/stargazers/)
 
 ## Julia Packages
